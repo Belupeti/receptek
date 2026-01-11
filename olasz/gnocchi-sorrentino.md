@@ -20,7 +20,7 @@
 
 ## Eszközök
 - Nagy, mély serpenyő
-  - Nekem pl. ilyenem van: https://www.ikea.com/hu/hu/p/ikea-365-serpenyo-rozsdamentes-50582736/
+  - Nekem pl. ilyenem van: https://www.ikea.com/hu/hu/p/ikea-365-saute-serpenyo-rozsdamentes-00484253
 - Keverő alkalmatosság
   - Fakanál, műanyagkanál, lyukas, nem lyukas, mindegy
 - Nagy szűrő
@@ -31,11 +31,11 @@
   - Paradicsom felezés, bazsalikom (ha rendes növény) aprítás
 - Fokhagyma nyomó
   - Ha nincs, akkor lehet nagyon finomra aprítani késsel is
-- 1-2 Villa
+- 1-2 villa
   - Hasznos ha van
 
-# Elkészítés
-## Előkészületek
+## Elkészítés
+### Előkészületek
 1. Nyomjuk ki, vagy aprítsuk nagyon finomra a fokhagymát
 2. Ha bolti bazsalikom növénnyel dolgozunk, akkor tépjük le kb. a levelek felét, mossuk meg és aprítsuk fel
     - Esetleg pár szebb egész levelet félre lehet tenni a tálaláshoz
@@ -43,7 +43,7 @@
     - A fokhagyma könnyen odaég, gyorsan kell majd ráönteni a paradicsomot
 4. Rakjuk be a fokhagymát a serpenyőbe, öntsünk rá egy kis olívaolajat
     - NE melegítsük elő a serpenyőt
-## Gyújtsunk alá
+### Gyújtsunk alá
 1. Óvatosan pirítsuk meg a fokhagymát (1-2 perc alatt el kéne készülnie)
     - Ha túlpirítjuk, kemény darabok lesznek, semmiképpen se égjen oda
     - Ha mégis odaégne, még könnyen újra lehet kezdeni
