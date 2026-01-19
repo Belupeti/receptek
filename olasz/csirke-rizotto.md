@@ -16,7 +16,8 @@ Ezzel a recepttel én nagyjából 6-8 teljes étkezést kitettem
 - 300 g parmezán
     - ha tálaláshoz is szeretnénk, akkor lehet több
     - kb. bármilyen könnyen olvadó, erősebb ízű sajt jó, gaudával tesztelve
-- 15 dkg füstölt sonka
+- 15 dkg füstölt szalonna
+    - Lehet gyorspácolt is de akkor érdemes előtte kisütni
 
 ### Fűszerek és egyéb
 - Só
@@ -32,7 +33,7 @@ Ezzel a recepttel én nagyjából 6-8 teljes étkezést kitettem
 - Sajtreszelő
 
 ### Kondicionális
-- Kisebb serpenyő a szalonnának ha meg szeretnénk sütni előtte
+- Kisebb serpenyő a szalonnának ha ki szeretnénk sütni előtte
 - Kisebb fazék az alaplének, ha nincs alapból
 
 ## Elkészítés
