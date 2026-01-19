@@ -36,7 +36,7 @@ Ezzel a recepttel én nagyjából 6-8 teljes étkezést kitettem
 - Kisebb fazék az alaplének, ha nincs alapból
 
 ## Elkészítés
-### Alapléhez
+### Alapléhez, ha nincs kéznél
 - Kis vöröshagymát megpirítunk egy kevés olajon
 - Felöntjük vízzel
 - Belekeverjük a vegetát, petrezselymet
