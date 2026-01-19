@@ -6,7 +6,7 @@ Ezzel a recepttel én nagyjából 6-8 teljes étkezést kitettem
 - 50 dkg csirkemell-filé
 - 1 fej vöröshagyma
 - 1 gerezd fokhagyma
-- 45 dkg rizs
+- 50 dkg rizs
 - 1.5 dl fehérbor (én szárazzal csináltam)
 - 1.5 l alaplé
     - Ha van akkor lehetőleg csirke, ha nincs, akkor:
@@ -29,6 +29,7 @@ Ezzel a recepttel én nagyjából 6-8 teljes étkezést kitettem
 - Vágódeszka
 - Nagy vágókés
 - Fakanál/fa spatula
+- Sajtreszelő
 
 ### Kondicionális
 - Kisebb serpenyő a szalonnának ha sütni szeretnénk előtte
@@ -47,7 +48,8 @@ Ezzel a recepttel én nagyjából 6-8 teljes étkezést kitettem
 - Beleszórjuk a rizst, kis olajon esetleg megpirítjuk
 - Felöntjük a borral
 - Szép lassan belekeverjük az alaplevet (ezt érdemes tényleg sok lépésben megtenni)
-- Közben belereszeljük a sajtot és beleolvasztjuk a rámát
+      - A rizstől függően lehet nem kell mind a 1.5 l, emiatt is érdemes fokozatosan
+- Közben belereszeljük a sajtot és beleolvasztjuk a rámát, ezzel átforgatjuk
 - Végül belekeverjük a szalonnát (akár előtte kicsit megpirítva)
 
 ### Tálalás
