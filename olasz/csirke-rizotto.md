@@ -7,7 +7,7 @@ Ezzel a recepttel én nagyjából 6-8 teljes étkezést kitettem
 - 1 fej vöröshagyma
 - 1 gerezd fokhagyma
 - 50 dkg rizs
-- 1.5 dl fehérbor (szárazzal tesztelveÖ
+- 1.5 dl fehérbor (szárazzal tesztelve)
 - 1.5 l alaplé
     - Ha van akkor lehetőleg csirke, ha nincs, akkor:
         - kb 1.5 ek vegeta
