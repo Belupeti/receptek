@@ -45,11 +45,13 @@ Ezzel a recepttel én nagyjából 6-8 teljes étkezést kitettem
 
 ### A lényeg
 - Sóval-borssal fűszerezett, kockára vágott csirkét fehérre sütjük kevés olajon a nagy serpenyőben
-- Felvágott hagymát és fokhagymát beleszórjuk, kis sóval megkapatjuk
+- Felvágott vörös- és fokhagymát beleszórjuk, kis sóval megkapatjuk
 - Beleszórjuk a rizst, kis olajon esetleg megpirítjuk
 - Felöntjük a borral
 - Szép lassan belekeverjük az alaplevet (ezt érdemes tényleg sok lépésben megtenni)
     - A rizstől függően lehet nem kell mind a 1.5 l, emiatt is érdemes fokozatosan
+- Sózzuk, borsozzuk
+    - Ha van sáfrányunk sáfrányozzuk
 - Közben belereszeljük a sajtot és beleolvasztjuk a rámát, ezzel átforgatjuk
 - Végül belekeverjük a szalonnát (akár előtte kicsit megpirítva)
 
