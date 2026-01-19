@@ -48,7 +48,7 @@ Ezzel a recepttel én nagyjából 6-8 teljes étkezést kitettem
 - Beleszórjuk a rizst, kis olajon esetleg megpirítjuk
 - Felöntjük a borral
 - Szép lassan belekeverjük az alaplevet (ezt érdemes tényleg sok lépésben megtenni)
-      - A rizstől függően lehet nem kell mind a 1.5 l, emiatt is érdemes fokozatosan
+    - A rizstől függően lehet nem kell mind a 1.5 l, emiatt is érdemes fokozatosan
 - Közben belereszeljük a sajtot és beleolvasztjuk a rámát, ezzel átforgatjuk
 - Végül belekeverjük a szalonnát (akár előtte kicsit megpirítva)
 
